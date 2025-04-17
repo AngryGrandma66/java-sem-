@@ -1,5 +1,6 @@
 package com.game.model.entities;
 
+import java.util.ArrayList;
 import java.util.List;
 
 /**
